@@ -1,17 +1,16 @@
-python-exercises/
-├── README.md
-├── basics/
-│   ├── ex01_variables.py
-│   ├── ex02_conditions.py
-│   ├── ex03_boucles.py
-│   ├── ex04_listes.py
-│   └── ex05_fonctions.py
-├── intermediate/
-│   ├── ex06_modules.py
-│   ├── ex07_exceptions.py
-│   ├── ex08_fichiers.py
-│   └── ex09_poo.py
-└── projects/
-    ├── quiz_cli.py
-    ├── budget_manager.py
-    └── library_manager/
+# Python Exercises
+
+Ce dépôt regroupe mes exercices et projets personnels en Python.
+
+## Objectif
+Renforcer mes bases en programmation et progresser grâce à la pratique.
+
+## Contenu
+- exercices sur les bases du langage ;
+- notions intermédiaires ;
+- petits projets personnels en ligne de commande.
+
+## Organisation
+- `basics/` : exercices simples ;
+- `intermediate/` : notions plus avancées ;
+- `projects/` : mini-projets et projets plus structurés.
